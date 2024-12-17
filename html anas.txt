@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohamed Anass Karba - CV</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Mohamed Anass Karba</h1>
+        <p>Careers in Tourism: Event Operations Job Simulation</p>
+    </header>
+    <main>
+        <section>
+            <h2>Certificate of Completion</h2>
+            <p>Issued on: <strong>July 20th, 2024</strong></p>
+            <p>Mohamed Anass Karba has completed practical tasks in:</p>
+            <ul>
+                <li>Attendee Management</li>
+                <li>Event Coordination</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Verified by</h2>
+            <p>Tom Brunskill, CEO, Co-Founder of Forage</p>
+            <p>
+                <a href="http://theforage.com/" target="_blank">Forage Website</a>
+            </p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Mohamed Anass Karba</p>
+    </footer>
+</body>
+</html>
